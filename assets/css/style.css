@@ -1,0 +1,76 @@
+
+#img-banner{
+    height: 850px;
+}
+.h1-banner{
+    font-size: 64px;
+}
+.input-group .form-control{
+    height: 74px;
+    font-size: 24px;
+}
+#button-addon2{
+    font-size: 24px;
+}
+#btn-cadastrar{
+    height: 62px;
+}
+
+.p-services{
+    width: 400px;
+}
+
+main{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 20px;
+    top: 176px;
+    padding-bottom: 150px;
+}
+
+.img-services{
+    height: 130px;
+}
+
+.h2-vantages{
+    position: relative;
+    bottom: 50px;
+    font-size: 62px;
+}
+
+.bg-img{
+   padding-bottom: 30px;
+   background-color: aquamarine;
+   background: rgba(0,0,0,0.3) url(/assets/img/bg-quote.jpg);
+   background-blend-mode: darken;
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   height: 800px;
+}
+
+.p-frase{
+    position: relative;
+    top: 190px;
+}
+
+.accordion-button{
+    height: 100px;
+}
+
+.btn-redes{
+    height: 50px;
+    width: 200px;
+}
+
+#accordionExample{
+    height: 900px;
+}
+
+.btn-primary{
+    height: 75px;
+    width: 227px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}

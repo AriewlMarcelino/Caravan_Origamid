@@ -1,0 +1,22 @@
+{
+  "name": "caravan_origamid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriewlMarcelino/Caravan_Origamid.git"
+  },
+  "author": "P.Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AriewlMarcelino/Caravan_Origamid/issues"
+  },
+  "homepage": "https://github.com/AriewlMarcelino/Caravan_Origamid#readme",
+  "dependencies": {
+    "clean-css": "^5.3.1"
+  }
+}
